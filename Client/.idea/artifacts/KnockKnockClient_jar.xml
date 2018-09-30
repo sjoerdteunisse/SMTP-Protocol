@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KnockKnockClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KnockKnockClient_jar</output-path>
+    <root id="archive" name="KnockKnockClient.jar">
+      <element id="module-output" name="KnockKnockClient" />
+    </root>
+  </artifact>
+</component>
